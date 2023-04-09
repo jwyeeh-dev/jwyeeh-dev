@@ -15,11 +15,7 @@
     </a>
   </div>
 
-<br><br><br><br><br><br><br><br>
-
-
-
-[![Jwyeeh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jwyeeh-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
 
 ## Languages
