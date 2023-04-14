@@ -44,8 +44,7 @@
 
 ## 🎯 Stats
 [![JAEYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwyeeh-dev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyeeh-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyeeh-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
