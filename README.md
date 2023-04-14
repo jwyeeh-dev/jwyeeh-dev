@@ -30,6 +30,8 @@
 
  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Fusion 360-000000?style=flat-square&logo=Autodesk&logoColor=white"/>
 
+## 🏛️ Projects
 
-## Stats
+
+## 🎯 Stats
 [![JAEYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwyeeh-dev&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyeeh-dev&layout=compact&langs_count=5&theme=great-gatsby&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
