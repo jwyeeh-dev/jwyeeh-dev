@@ -47,7 +47,7 @@
         <tr>
         <td><A href="https://github.com/jwyeeh-dev/One-Q-Tag-Project">1Q-Tag-Project</A></td>
         <td>2020.08-2020.12</td>
-        <td>NFC Check-in Server System for COVID-19 Body Temperature and Information Management</td>
+        <td>NFC Check-in System for COVID-19 Body Temperature and Information Management</td>
     </tr> 
   
 </table>
