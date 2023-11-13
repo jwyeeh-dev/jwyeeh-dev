@@ -53,8 +53,11 @@
 </table>
 
 ### Extracurricular Activities
+- 📚 Data Youth Campus(Korea University) Computer Vision Part Member (2023.06. ~ 2023.08.)
 - 🧠 GDSC(Google Developer Student Clubs) Seoultech 2nd Deep Learning Member (2022.08. ~ 2023.07.)
-- 📚 ACDC (Academic Club) SeoulTech EIE 6nd Organizing Team Member (2022.02. ~ 2022.12.)
+- 📚 ACDC(Academic Club) SeoulTech EIE 6nd Organizing Committee Member (2022.02. ~ 2022.12.)
+- 💵 PEER(2021 Promising Student Start-up Team 300) Team Leader and Deep Learing Engineer (2021.03. ~ 2021.12.)
+- 🌡️ MalangMalang(2020 Seoultech Design Thinking Competition) Team Leader and Product Developer (2020.08. ~ 2020.12.)
 - 🏆 UN Hultprize OnCampus Seoultech Organizing Committee Member (2020.08. ~ 2020.12.)
 
 ### Stacks
