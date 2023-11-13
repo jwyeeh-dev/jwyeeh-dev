@@ -25,6 +25,11 @@
         <td>Auto-Captioner with Cochl.Sense and ASR including Sound's mood.</td>
     </tr>
     <tr>
+        <td><A href="https://github.com/jwyeeh-dev/Capstone_libraryrobot">Capstone Project</A></td>
+        <td>2023.01-2023.12</td>
+        <td>The Automation Driving Robot Assistant System in Library</td>
+    </tr>
+    <tr>
         <td><A href="https://github.com/jwyeeh-dev/HiHoneyBee">HiHoneyBee</A></td>
         <td>2023.07-2023.08</td>
         <td>The Monitoring and Tracking System about Honeybee Behavior</td>
