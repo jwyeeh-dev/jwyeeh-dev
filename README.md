@@ -65,7 +65,6 @@
 - 🌡️ MalangMalang(2020 Seoultech Design Thinking Competition) Team Leader and Product Developer (2020.08. ~ 2020.12.)
 - 🏆 UN Hultprize OnCampus Seoultech Organizing Committee Member (2020.08. ~ 2020.12.)
 
-### Stacks
 
 
 
