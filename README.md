@@ -25,7 +25,7 @@
         <td>Auto-Captioner with Cochl.Sense and ASR including Sound's mood.</td>
     </tr>
     <tr>
-        <td><A href="https://github.com/jwyeeh-dev/Capstone_libraryrobot">Capstone Project</A></td>
+        <td><A href="https://github.com/Nareume/Capstone_LibraryRobot">Capstone Project</A></td>
         <td>2023.01-2023.12</td>
         <td>The Automation Driving Robot Assistant System in Library</td>
     </tr>
@@ -40,12 +40,12 @@
         <td>The emergency assistance Android application at Disaster Situation</td>
     </tr>
     <tr>
-        <td><A href="https://github.com/jwyeeh-dev/Silicon_SlabGen">Silicon_SlabGen</A></td>
+        <td><A href="https://github.com/jwyeeh-dev/Silicon-SlabGen">Silicon_SlabGen</A></td>
         <td>2022.02-2022.09</td>
         <td>Inverse Design of Surface Geometries using Generative AI Models (CVAE, WGAN)</td>
     </tr>
     <tr>
-        <td><A href="https://github.com/jwyeeh-dev/Dalmaji_DL">Dalmaji</A></td>
+        <td><A href="https://github.com/TeamPEERs/Dalmaji_Android">Dalmaji</A></td>
         <td>2021.03-2021.11</td>
         <td>The Application Platform to provide recommendation of subscribe services</td>
     </tr>
