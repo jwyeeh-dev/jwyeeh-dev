@@ -8,7 +8,8 @@
 - 🎓 Seoul National University of Science and Technology, Electrical and Information Engineering (2017.03. ~ 2024.02.)
 
 ### Experience
-- 🖥 AI Research Engineer Intern, Cochl (2023.08. ~ )
+- 🖥 AI Research Engineer, Cochl (2023.12. ~ Now)
+- 🖥 AI Research Engineer Intern, Cochl (2023.08. ~ 2023.12.)
 - 🖥 Undergraduate DL Researcher Intern, KIST CSRC (2022.02. ~ 2022.09.)
 - 🗓️ Project Manager, E.un Education Company (2021.06. ~ 2021.12.)
 
