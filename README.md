@@ -5,7 +5,7 @@
 <a href="mailto:jwyeeh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/JaeyeongHwang-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwyeeh@gmail.com"/></a>
 
 ### Education
-- 🎓 Seoul National University of Science and Technology, Electrical and Information Engineering (2017.03. ~ 2024.02.)
+- 🎓 Seoul National University of Science and Technology, BS, Electrical and Information Engineering (2017.03. ~ 2024.02.)
 
 ### Experience
 - 🖥 AI Research Engineer, Cochl (2023.12. ~ Now)
