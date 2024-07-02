@@ -2,7 +2,7 @@
 
 ### How to contact me
 <a href="https://www.linkedin.com/in/jwyeeh" target="_blank"><img src="https://img.shields.io/badge/JaeyeongHwang-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jwyeeh"/></a>
-<a href="mailto:jwyeeh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/JaeyeongHwang-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwyeeh@gmail.com"/></a>
+<a href="mailto:jwyeeh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/JaeyeongHwang-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyhwang@cochlear.ai"/></a>
 
 ### Education
 - 🎓 Seoul National University of Science and Technology, BS, Electrical and Information Engineering (2017.03. ~ 2024.02.)
